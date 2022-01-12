@@ -7,6 +7,8 @@ $score = 50;
 echo $score++;
 ?>  
 
+<br>
+
 <?php
 $score = 50;  
 echo $score--;
