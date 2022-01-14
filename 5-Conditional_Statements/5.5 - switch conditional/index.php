@@ -4,10 +4,6 @@
 
 <?php
 $score = 10;
-$score = 9;
-$score = 8;
-$score = 7;
-$score = 6;
 
 
 switch($score) {
@@ -26,6 +22,7 @@ switch($score) {
     case 6:
     echo "Nog even oefenen dan haal je vast alle punten!";
 }
+
 ?>
 
 </body>
