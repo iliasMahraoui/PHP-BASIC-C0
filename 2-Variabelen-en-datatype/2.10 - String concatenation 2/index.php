@@ -3,10 +3,10 @@
 <body>
 
 <?php
-$voornaam1 = "item 1";
-$voornaam2 = "item 2";
-$voornaam3 = "item 3";
-echo "<li>$voornaam1</li><li>$voornaam2</li><li>$voornaam3</li>";
+$item1 = "item 1";
+$item2 = "item 2";
+$item3 = "item 3";
+echo "<li>$item1</li><li>$item2</li><li>$item3</li>";
 ?>
 
 </body>
